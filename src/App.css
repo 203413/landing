@@ -217,6 +217,7 @@ button span {
   cursor: pointer;
   width: 100%;
   font-size: 18px;
+  
 }
 
 .card button:hover {
@@ -251,8 +252,8 @@ button span {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  margin-top: 60px;
-  margin-left: 150px;
+  margin-top: 10px;
+  margin-left: 170px;
 }
 
 .button-74:hover {

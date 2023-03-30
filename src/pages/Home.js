@@ -38,7 +38,7 @@ const Home = () => {
 
         <div class="search-box">
           <button class="btn-search"><i> <img src={icon} height='30' width='30'></img> </i></button>
-          <input type="text" class="input-search" placeholder="Type to Search..." />
+          <input type="text" class="input-search" placeholder="Escriba." />
         </div>
 
         <button class="button-74" role="button" onClick={handleScrollDown}>
