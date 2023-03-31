@@ -50,7 +50,7 @@ export const responsive = {
         "https://img.ltwebstatic.com/images3_pi/2022/12/02/1669950014aba78df2208c5dca323ad4ecdb565d3d_thumbnail_900x.webp",
       name: "Capucha térmica con estampado de letra y dibujos animados",
       price: "$MXN469.00",
-      description: "Hombres 1 pieza Capucha térmica con estampado de letra y dibujos animados con cordón",
+      description: "Hombres Capucha térmica con estampado de letra y dibujos animados con cordón",
     },
     {
       id: 5,
