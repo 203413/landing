@@ -84,4 +84,20 @@ export const responsive = {
       price: "$MXN411.99",
       description: "ROMWE X Vincenttrinidadart Hombres Sudadera con estampado de gato",
     },
+    {
+      id: 9,
+      imageurl:
+        "https://img.ltwebstatic.com/images3_pi/2022/09/29/1664422767cee556b59a2776517abc0742ca0daa65_thumbnail_810x.webp",
+      name: "Botas blancas",
+      price: "$MXN999.99",
+      description: "Botas clásicas con cremallera lateral de punta con tacón grueso",
+    },
+    {
+      id: 10,
+      imageurl:
+        "https://img.ltwebstatic.com/images3_acp/2023/03/14/1678783005f066174e5b0e6e9e365a1f3491a7a1f2.webp",
+      name: "Botas dos tonos",
+      price: "$MXN799.99",
+      description: "Botas chelsea de dos tonos",
+    },
   ];
